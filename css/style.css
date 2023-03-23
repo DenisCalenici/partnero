@@ -1,0 +1,358 @@
+
+/*Обнуление*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+ .container{
+
+ }
+.logo_wrapper {
+}
+.logo_container {
+}
+.logo {
+}
+.logo_body {
+}
+.logo_panel {
+}
+.logo_button {
+}
+.button_one {
+}
+.button_two {
+}
+.figures_wrapper {
+}
+.figures_container {
+}
+.figures {
+}
+.figures_content {
+}
+.figures_title {
+}
+.figures_text {
+}
+.figures_button {
+}
+.wree {
+}
+.con_figure {
+}
+.oval {
+}
+.figure_1 {
+}
+.figure_2 {
+}
+.figure_3 {
+}
+.figure_4 {
+}
+.figure_5 {
+}
+.programs_wrapper {
+}
+.programs_conteiner {
+}
+.programs_content_1 {
+}
+.programs_title {
+}
+.programs_text {
+}
+.programs_button {
+}
+.programs_content_2 {
+}
+.programs_title_2 {
+}
+.programs_text_2 {
+}
+.programs_button_2 {
+}
+.partners_wrapper {
+}
+.partners_container {
+}
+.partners_content {
+}
+.partners_img {
+}
+.partners_foto {
+}
+.partners_text {
+}
+.partners_text_1 {
+}
+.partners_a {
+}
+.partners_text_2 {
+}
+.partners_text_3 {
+}
+.mission_wrapper {
+}
+.mission_container {
+}
+.mission_body {
+}
+.mission_block_1 {
+}
+.mission_text_1 {
+}
+.mission_button {
+}
+.mission_block_2 {
+}
+.mission_text_2 {
+}
+.tmc_2_1 {
+}
+.tmc_2_2 {
+}
+.mission_text_3 {
+}
+.tmc_3_1 {
+}
+.tmc_3_2 {
+}
+.mission_text_4 {
+}
+.tmc_4_1 {
+}
+.tmc_4_2 {
+}
+.mission_text_5 {
+}
+.tmc_5_1 {
+}
+.tmc_5_2 {
+}
+.pricing_wrapper {
+}
+.pricing_container {
+}
+.pricing_body {
+}
+.pricing_text {
+}
+.pricing_text_1 {
+}
+.packages_wrapper {
+}
+.packages_container {
+}
+.packages_starter {
+}
+.starter_name {
+}
+.starter_cost {
+}
+.starter_mo {
+}
+.starter_trial {
+}
+.starter_button {
+}
+.starter_programs {
+}
+.img_77 {
+}
+.starter_team {
+}
+.starter_people {
+}
+.img_88 {
+}
+.starter_features {
+}
+.starter_features_1 {
+}
+.img_99 {
+}
+.starter_features_2 {
+}
+.starter_features_3 {
+}
+.packages_partner {
+}
+.partner_name {
+}
+.partner_cost {
+}
+.partner_mo {
+}
+.partner_trial {
+}
+.partner_button {
+}
+.partner_programs {
+}
+.partner_team {
+}
+.partner_people {
+}
+.partner_features {
+}
+.partner_features_1 {
+}
+.partner_features_2 {
+}
+.partner_features_3 {
+}
+.packages_advanced {
+}
+.advanced_name {
+}
+.advanced_cost {
+}
+.advanced_mo {
+}
+.advanced_trial {
+}
+.advanced_button {
+}
+.advanced_programs {
+}
+.advanced_team {
+}
+.advanced_people {
+}
+.advanced_features {
+}
+.advanced_features_1 {
+}
+.advanced_features_2 {
+}
+.plan {
+}
+.plan_a {
+}
+.a_a {
+}
+.plan_img {
+}
+.start_day {
+}
+.start_container {
+}
+.start_text {
+}
+.start_button {
+}
+.informs_wrapper {
+}
+.informs_conteiner {
+}
+.informs_body {
+}
+.partnero {
+}
+.partnero_img {
+}
+.par {
+}
+.partnero_text {
+}
+.search {
+}
+.seeker {
+}
+.submit {
+}
+.informs_updates {
+}
+.informs_privacy {
+}
+.icons {
+}
+.a_img {
+}
+.informs_packages {
+}
+.Product {
+}
+.product_name {
+}
+.product_a_1 {
+}
+.product_a_2 {
+}
+.product_a_3 {
+}
+.product_a_4 {
+}
+.product_a_5 {
+}
+.Company {
+}
+.company_name {
+}
+.company_a_1 {
+}
+.company_a_2 {
+}
+.company_a_3 {
+}
+.company_a_4 {
+}
+.Resources {
+}
+.resources_name {
+}
+.resources_a_1 {
+}
+.resources_a_2 {
+}
+.resources_a_3 {
+}
+.footer {
+}
+.footer_container {
+}
+.footer_body {
+}
+.footer_rights {
+}
+.footer_company {
+}
+.footer_img {
+}
+.footer_text {
+}
